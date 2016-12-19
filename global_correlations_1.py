@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.style.use('ggplot')
 from fredapi import Fred
-py.sign_in('srjain', 'AWR06Gn6LYQ4HHrspVXW')
+py.sign_in('fzn0728', 'yoXOLw8dqTWiwYZvsv9O')
 
 fred = Fred(api_key='a0718ea00e6784c5f8b452741622a98c')
 
